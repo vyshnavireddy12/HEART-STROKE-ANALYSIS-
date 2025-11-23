@@ -371,10 +371,6 @@ print("Stroke Risk:", "High" if prediction[0] == 1 else "Low")
 - **Feature Engineering**: Consider adding more features or feature interactions for improved performance
 - **Model Validation**: For production use, consider additional validation techniques like k-fold cross-validation and external validation datasets
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ##  License
 
 This project is open source and available for educational purposes.
