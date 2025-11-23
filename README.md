@@ -379,5 +379,5 @@ This project is open source and available for educational purposes.
 ---
 
 **Authors**: [Sujal-G-Sanyasi](https://github.com/Sujal-G-Sanyasi) **and** [vyshnavireddy12](https://github.com/vyshnavireddy12)          
-**Date**: 2024  
+**Date**: 23 November,2025  
 **Version**: 1.0
