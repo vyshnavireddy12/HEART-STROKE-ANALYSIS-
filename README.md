@@ -2,7 +2,7 @@
 
 A comprehensive machine learning project for predicting stroke risk using healthcare data. This project implements multiple ensemble learning algorithms, performs extensive hyperparameter tuning, and delivers a production-ready model for stroke prediction.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -16,7 +16,7 @@ A comprehensive machine learning project for predicting stroke risk using health
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This project aims to predict the likelihood of stroke occurrence based on various health indicators including hypertension, heart disease, average glucose level, BMI, and smoking status. The project follows a complete machine learning pipeline from data exploration to model deployment.
 
@@ -35,7 +35,7 @@ This project aims to predict the likelihood of stroke occurrence based on variou
 - **Model Persistence**: Saves the best model for future predictions
 - **Stratified Splitting**: Ensures balanced train-test distribution
 
-## 📁 File Structure
+##  File Structure📁
 
 ```
 Heart-Stroke/
@@ -90,7 +90,7 @@ Heart-Stroke/
 5. **Open the notebook**
    - Navigate to `HEART-STROKE-ANALYSIS-/Heartstroke.ipynb`
 
-## 💻 Code Snippets and Significance
+## Code Snippets and Significance
 
 ### 1. Data Loading and Initial Exploration
 
@@ -262,7 +262,7 @@ def prediction(new_test_data : pd.DataFrame, label_mapping : dict, final_model):
 
 ---
 
-## 📊 Model Performance
+## Model Performance📊
 
 ### Model Comparison Results
 
@@ -286,7 +286,7 @@ After hyperparameter tuning with RandomizedSearchCV:
   - `colsample_bytree`: 0.9
   - And other optimized parameters
 
-## 📈 Dataset
+## Dataset
 
 The dataset contains healthcare information with the following features:
 
@@ -321,7 +321,7 @@ The dataset contains healthcare information with the following features:
 - **Jupyter Notebook**: Interactive development environment
 - **Pickle**: Model serialization
 
-## 📖 Usage
+## Usage
 
 ### Running the Complete Analysis
 
