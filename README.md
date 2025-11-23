@@ -26,7 +26,7 @@ This project aims to predict the likelihood of stroke occurrence based on variou
 - Optimize model performance through hyperparameter tuning
 - Deploy the best-performing model for predictions
 
-## ✨ Features
+##  Features
 
 - **Comprehensive EDA**: Exploratory data analysis with visualizations
 - **Data Preprocessing**: Handles missing values, categorical encoding, and data type conversions
@@ -357,30 +357,31 @@ prediction = model.predict(new_data)
 print("Stroke Risk:", "High" if prediction[0] == 1 else "Low")
 ```
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **Feature Importance**: The model identifies hypertension, heart disease, and glucose levels as significant predictors
 2. **Class Imbalance**: The dataset is imbalanced, which affects recall for the minority class (stroke cases)
 3. **Model Selection**: XGBoost outperformed other ensemble methods, likely due to its ability to handle imbalanced data better
 4. **Outlier Handling**: High glucose levels were retained as they may indicate diabetic patients, which is medically relevant
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - **Medical Disclaimer**: This model is for educational purposes only and should not be used as a substitute for professional medical advice
 - **Data Imbalance**: The dataset has significantly fewer stroke cases, which may affect model performance on rare cases
 - **Feature Engineering**: Consider adding more features or feature interactions for improved performance
 - **Model Validation**: For production use, consider additional validation techniques like k-fold cross-validation and external validation datasets
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
+##  License
 
 This project is open source and available for educational purposes.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: [Sujal-G-Sanyasi]() 
+            []()
 **Date**: 2024  
 **Version**: 1.0
