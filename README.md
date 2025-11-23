@@ -285,7 +285,7 @@ After hyperparameter tuning with RandomizedSearchCV:
   - `subsample`: 0.7
   - `colsample_bytree`: 0.9
   - And other optimized parameters
-**Note**: After Cross-Validation for [XgBoostClassifier](https://xgboost.readthedocs.io/en/stable/) using [RandomisedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html) accurcy has reduced from **95%** to **94.81%** which is the results of slight **Overfitting** prevention which is common for Cross-Validation process.
+**Note**: After Cross-Validation for [XgBoostClassifier](https://xgboost.readthedocs.io/en/stable/) using [RandomisedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html) accuracy has reduced from **95%** to **94.81%** which is the results of slight **Overfitting** prevention which is common for Cross-Validation process.
 
 ## Dataset
 
