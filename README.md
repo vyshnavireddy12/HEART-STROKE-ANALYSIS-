@@ -377,7 +377,7 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Author**: [Sujal-G-Sanyasi]() 
-            []()
+**Author1**: [Sujal-G-Sanyasi](https://github.com/Sujal-G-Sanyasi) 
+**Author2**: [vyshnavireddy12](https://github.com/vyshnavireddy12)          
 **Date**: 2024  
 **Version**: 1.0
